@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint",
     "lib":"vue-cli-service build --target lib --name VEditor --dest lib src/pulgins/editor/components/Editor.vue"
   },
-  "main": "./dist/VEditor.umd.min.js",
+  "main": "./lib/VEditor.umd.min.js",
   "license": "MIT",
   "dependencies": {
     "core-js": "^3.4.4",
