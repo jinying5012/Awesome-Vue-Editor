@@ -95,4 +95,4 @@ fontsize: {
 ```
 
 ### 代码仓库
-See [gitee.com](https://gitee.com/jinying5012/Awesome-Vue-editor).
+See [github.com](https://github.com/jinying5012/Awesome-Vue-Editor).
